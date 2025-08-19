@@ -19,19 +19,19 @@ This project is a relational database system built in PostgreSQL to manage and a
 
 After running SQL queries on the dataset, these insights were observed:
 
-# 🎬 Most Popular Genres 
+🎬 Most Popular Genres 
 → Action and Drama had the highest number of movies.
 
-# ⭐ Top-Rated Movies 
+⭐ Top-Rated Movies 
 → Certain classics consistently scored above 9.0 in ratings.
 
-# 👥 Actor–Director Collaborations 
+👥 Actor–Director Collaborations 
 → Some actors worked repeatedly with the same directors, forming strong partnerships.
 
-# 📈 Trends Over Time 
+📈 Trends Over Time 
 → Significant increase in the number of movies released after 2010.
 
-# ⏳ Movie Duration Analysis 
+⏳ Movie Duration Analysis 
 → Average duration of movies lies between 100–120 minutes.
 
 🌍 User Ratings → Genres like Comedy had the widest variation in ratings compared to Thriller/Drama.

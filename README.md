@@ -1,6 +1,9 @@
 # Movies_Database_PostgreSQL
 This project is a relational database system built in PostgreSQL to manage and analyze information about movies, actors, directors, genres, and ratings. The goal of this project is to demonstrate database design, normalization, and advanced SQL querying.
 
+# Data Modelling Overview
+<img width="1840" height="964" alt="231462475-2fb95681-938f-4903-a221-8c7c92e21522" src="https://github.com/user-attachments/assets/5ea82158-b897-4fab-a4f5-5444429f43a3" />
+
 # 🖥️ Software & Tools Used
 
 # PostgreSQL 

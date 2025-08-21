@@ -6,13 +6,13 @@ This project is a relational database system built in PostgreSQL to manage and a
 
 # 🖥️ Software & Tools Used
 
-# PostgreSQL 
+-> PostgreSQL 
 → Database Management System (core DB engine)
 
-# pgAdmin 4 
+-> pgAdmin 4 
 → GUI for managing and querying PostgreSQL
 
-# SQL 
+-> SQL 
 → For data definition (DDL) and data manipulation (DML)
 
 # 📊 Insights from the Movies Database

@@ -39,4 +39,5 @@ After running SQL queries on the dataset, these insights were observed:
 
 # Build With:
 
-<img width="300" height="274" alt="62cdcc97e106734e1ce200a9" src="https://github.com/user-attachments/assets/5a1b5e61-f7fb-4344-8748-3131d0ca6e83" />
+<img width="360" height="360" alt="png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail" src="https://github.com/user-attachments/assets/8d69b9dd-9ef5-4b70-a6d3-1548792c6b14" />
+

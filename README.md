@@ -37,9 +37,5 @@ After running SQL queries on the dataset, these insights were observed:
 🌍 User Ratings → Genres like Comedy had the widest variation in ratings compared to Thriller/Drama.
 
 
-# Build With:
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 

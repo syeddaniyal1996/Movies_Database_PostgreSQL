@@ -39,6 +39,7 @@ After running SQL queries on the dataset, these insights were observed:
 
 # Build With:
 
-(https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 

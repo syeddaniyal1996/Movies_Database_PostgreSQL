@@ -39,5 +39,6 @@ After running SQL queries on the dataset, these insights were observed:
 
 # Build With:
 
-<img width="360" height="360" alt="png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail" src="https://github.com/user-attachments/assets/8d69b9dd-9ef5-4b70-a6d3-1548792c6b14" />
+(https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
